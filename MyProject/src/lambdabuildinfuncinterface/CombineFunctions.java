@@ -19,6 +19,7 @@ public class CombineFunctions {
 		.map(parseAndAbsInt)
 		.forEach(System.out::println);
 		System.out.println("Hello World");
+		System.out.println("Good Morning");
 
 	}
 
