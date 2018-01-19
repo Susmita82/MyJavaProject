@@ -18,6 +18,7 @@ public class CombineFunctions {
 		Arrays.stream("4, -9, 16".split(", "))
 		.map(parseAndAbsInt)
 		.forEach(System.out::println);
+		System.out.println("Hello World");
 
 	}
 
